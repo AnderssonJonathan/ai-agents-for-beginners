@@ -1,5 +1,3 @@
-# TEST
-
 # Course Setup
 
 ## Introduction
